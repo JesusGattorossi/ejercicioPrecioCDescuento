@@ -4,7 +4,7 @@ let porcentajedescuento: number = 0.1;
 let descuento = precioInicial * porcentajedescuento;
 console.log("precio final", precioInicial - descuento);
 */
-let botonEnviar = document.getElementById("boton-enviar");
+/*let botonEnviar = document.getElementById("boton-enviar");
 let precioInicial= document.getElementById("precioInicial");
 let descuento= document.getElementById("descuento");
 
@@ -16,3 +16,4 @@ console.log( " el precio con descuento es:",);
 console.log(resultado);
 
 })
+*/
